@@ -8,3 +8,5 @@ https://github.com/alibaba/nacos
 
 nacos默认集群启动，本地启动是非集群。启动时指定为单机启动：
 startup.cmd -m standalone
+nacos启动后，测试地址：
+http://localhost:8848/nacos/
